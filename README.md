@@ -1,6 +1,6 @@
 # 👨‍💻Thiago Saback
 
-**`Engenheiro de Dados`** **`Analista de Dados`**
+**`Engenheiro de Dados`**
 
 Olá! Meu nome é Thiago Saback. Sou natural do Rio de Janeiro - RJ e desde muito novo um apaixonado pela simplificação de processos complexos através da tecnologia. Sou formado em Gestão Financeira pela FIPECAFI, com especialização em Controladoria e Finanças pela USP/ESALQ, e um ávido estudante da engenharia e análise de dados. Possuo uma experiência de 08 anos trabalhando com análise de dados e otimização de processos na Saúde Pública, buscando unificar o conhecimento técnico, as necessidades da gestão e os recursos disponíveis, de forma a tornar o processo otimizado e eficaz.
 
