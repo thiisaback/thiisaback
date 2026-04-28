@@ -1,8 +1,10 @@
-# 👨‍💻Thiago Saback
+# Thiago Saback
 
-**`Engenheiro de Dados`**
+**`Engenheiro de Dados`** **`Analytics Engineer`**
 
-Olá! Meu nome é Thiago Saback. Sou natural do Rio de Janeiro - RJ e desde muito novo um apaixonado pela simplificação de processos complexos através da tecnologia. Sou formado em Gestão Financeira pela FIPECAFI, com especialização em Controladoria e Finanças pela USP/ESALQ, e um ávido estudante da engenharia e análise de dados. Possuo uma experiência de 08 anos trabalhando com análise de dados e otimização de processos na Saúde Pública, buscando unificar o conhecimento técnico, as necessidades da gestão e os recursos disponíveis, de forma a tornar o processo otimizado e eficaz.
+Sou apaixonado por dados e automação de processos. Com mais de 8 anos de experiência, transformei desafios operacionais em soluções orientadas a dados. Na RioSaúde, desenvolvi um projeto de engenharia de dados que reduziu um processo de auditoria de 72 horas para 20 minutos. 
+
+Busco oportunidades como Engenheiro de Dados ou Engenheiro de Analytics para gerar impacto real nos processos, nas decisões organizacionais e na vida das pessoas.
 
 <p align="left">
     <a href="https://github.com/thiisaback?tab=followers">
@@ -24,19 +26,4 @@ Olá! Meu nome é Thiago Saback. Sou natural do Rio de Janeiro - RJ e desde muit
 ---
 
 ### Técnologias e Linguagens
-<img 
-  align="left" 
-  alt="MySQL"
-  title="MySQL" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Python"
-  title="Python" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+**`Python`** • **`Microsoft SQL Server`** • **`MySQL`** • **`Amazon S3`** • **`AWS Lambda`** • **`AWS Glue`** • **`Amazon Athena`**
